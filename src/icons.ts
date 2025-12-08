@@ -3393,6 +3393,16 @@ export const icons = (<const>[
     updated_in: 2.0,
   },
   {
+    name: "calendar-gear",
+    pascal_name: "CalendarGear",
+    categories: [IconCategory.OFFICE, IconCategory.SYSTEM],
+    figma_category: FigmaCategory.TIME,
+    tags: ["dates", "times", "events", "schedule", "12"],
+    codepoint: 57609,
+    published_in: 1.0,
+    updated_in: 2.0,
+  },
+  {
     name: "calendar-blank",
     pascal_name: "CalendarBlank",
     categories: [IconCategory.OFFICE, IconCategory.SYSTEM],
