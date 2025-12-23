@@ -6398,14 +6398,434 @@ export const icons = (<const>[
     updated_in: 1.4,
   },
   {
-	  name: "day-1",
-	  pascal_name: "Day1",
+	  name: "days-1",
+	  pascal_name: "Days1",
 	  categories: [IconCategory.WEATHER],
 	  figma_category: FigmaCategory.WEATHER,
 	  tags: [
 		  "calendar"
 	  ],
 	  codepoint: 999990,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-2",
+	  pascal_name: "Days2",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999991,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-3",
+	  pascal_name: "Days3",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999992,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-4",
+	  pascal_name: "Days4",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999993,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-5",
+	  pascal_name: "Days5",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999994,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-6",
+	  pascal_name: "Days6",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999995,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-7",
+	  pascal_name: "Days7",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999996,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-8",
+	  pascal_name: "Days8",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999997,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-9",
+	  pascal_name: "Days9",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999998,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-10",
+	  pascal_name: "Days10",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999999,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-11",
+	  pascal_name: "Days11",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000000,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-12",
+	  pascal_name: "Days12",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000001,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-13",
+	  pascal_name: "Days13",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000002,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-14",
+	  pascal_name: "Days14",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000003,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-15",
+	  pascal_name: "Days15",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000004,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-16",
+	  pascal_name: "Days16",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000005,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-17",
+	  pascal_name: "Days17",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000006,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-18",
+	  pascal_name: "Days18",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000007,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-19",
+	  pascal_name: "Days19",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000008,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-20",
+	  pascal_name: "Days20",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000009,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-21",
+	  pascal_name: "Days21",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000010,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-22",
+	  pascal_name: "Days22",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000011,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-23",
+	  pascal_name: "Days23",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000012,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-24",
+	  pascal_name: "Days24",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000013,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-25",
+	  pascal_name: "Days25",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000014,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-26",
+	  pascal_name: "Days26",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000015,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-27",
+	  pascal_name: "Days27",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000016,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-28",
+	  pascal_name: "Days28",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000017,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-29",
+	  pascal_name: "Days29",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000018,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-30",
+	  pascal_name: "Days30",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000019,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "days-31",
+	  pascal_name: "Days31",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 1000020,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "shortcut-t",
+	  pascal_name: "ShortcutT",
+	  categories: [IconCategory.EDITOR],
+	  figma_category: FigmaCategory.EDUCATION,
+	  tags: [
+		  "shortcut"
+	  ],
+	  codepoint: 1000021,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "shortcut-k",
+	  pascal_name: "ShortcutK",
+	  categories: [IconCategory.EDITOR],
+	  figma_category: FigmaCategory.EDUCATION,
+	  tags: [
+		  "shortcut"
+	  ],
+	  codepoint: 1000022,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "shortcut-n",
+	  pascal_name: "ShortcutN",
+	  categories: [IconCategory.EDITOR],
+	  figma_category: FigmaCategory.EDUCATION,
+	  tags: [
+		  "shortcut"
+	  ],
+	  codepoint: 1000023,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "shortcut-esc",
+	  pascal_name: "ShortcutEsc",
+	  categories: [IconCategory.EDITOR],
+	  figma_category: FigmaCategory.EDUCATION,
+	  tags: [
+		  "shortcut"
+	  ],
+	  codepoint: 1000024,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
+	  name: "shortcut-del",
+	  pascal_name: "ShortcutDel",
+	  categories: [IconCategory.EDITOR],
+	  figma_category: FigmaCategory.EDUCATION,
+	  tags: [
+		  "shortcut"
+	  ],
+	  codepoint: 1000025,
       published_in: 1.0,
       updated_in: 1.0,
   },
