@@ -6398,6 +6398,18 @@ export const icons = (<const>[
     updated_in: 1.4,
   },
   {
+	  name: "day-1",
+	  pascal_name: "Day1",
+	  categories: [IconCategory.WEATHER],
+	  figma_category: FigmaCategory.WEATHER,
+	  tags: [
+		  "calendar"
+	  ],
+	  codepoint: 999990,
+      published_in: 1.0,
+      updated_in: 1.0,
+  },
+  {
     name: "database",
     pascal_name: "Database",
     categories: [IconCategory.DEVELOPMENT, IconCategory.SYSTEM],
